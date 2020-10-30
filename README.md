@@ -1,4 +1,4 @@
-# GeneticAlgorithmSample
+# geneticAlgorithmSample
 
 進化計算のサンプルプログラムです。
 選択(淘汰)、交叉、突然変異、評価を繰り返すことで、目的の文字列(=target)となるように進化します。
